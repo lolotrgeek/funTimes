@@ -1,0 +1,4 @@
+    if (encode[i] == 1) {
+        var one = ['i', 't', 'l']
+        encoded += one[Math.floor(Math.random() * one.length)]
+    } 
